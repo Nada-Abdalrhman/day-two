@@ -2,19 +2,19 @@
 git day two
 ![Test Img](/img.png)
 
-==> Remove Branches Locally
-git branch -d dev
-git branch -d test
-==> Remove Branches Remotely
-git push origin --delete dev
-git push origin --delete test
-==> Checking out another branch without committing changes
-git stash
-git checkout branchName
-git stash apply
-==> List Tags
-git tag
-==> Delete tag locally
-git tag -d v1.7
-==> Delete tag remotely
-git push --delete origin v1.7
+==> Remove Branches Locally <br>
+git branch -d dev <br>
+git branch -d test <br>
+==> Remove Branches Remotely <br>
+git push origin --delete dev <br>
+git push origin --delete test <br>
+==> Checking out another branch without committing changes <br>
+git stash <br>
+git checkout branchName <br>
+git stash apply <br>
+==> List Tags <br>
+git tag <br>
+==> Delete tag locally <br>
+git tag -d v1.7 <br>
+==> Delete tag remotely <br>
+git push --delete origin v1.7 <br>
