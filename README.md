@@ -2,7 +2,6 @@
 git day two
 ![Test Img](/img.png)
 
-<!-- 
 ==> Remove Branches Locally
 git branch -d dev
 git branch -d test
@@ -19,4 +18,3 @@ git tag
 git tag -d v1.7
 ==> Delete tag remotely
 git push --delete origin v1.7
- -->
